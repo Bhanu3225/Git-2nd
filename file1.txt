@@ -11,9 +11,13 @@ how r ::-u?***
 
 kikiki::-kjkj
  
-chnage : each and every one.
+chnage 1 : each and every one.
 
-change :- WI6 on local master to test normal.
+change 2:- WI6 on local master to test normal.
 
-change :- by teammate on reomte master for bug3
+
+change 3:- by teammate on reomte master for bug3
+change 4:- local master for WI7
+change 5:- local master WI8
+
 
