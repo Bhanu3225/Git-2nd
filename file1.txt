@@ -13,5 +13,6 @@ kikiki::-kjkj
  
 chnage : each and every one.
 
-change : WI6 on local master to test normal.
+change :- WI6 on local master to test normal.
+change :- local master for WI7
 
